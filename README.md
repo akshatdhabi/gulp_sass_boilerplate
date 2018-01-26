@@ -1,5 +1,6 @@
 # gulp_sass_boilerplate
 Basic boilerplate for front-end development using gulp<br />
+<strong>create a folder named "images" in src folder</strong><br />
 use -  <strong>npm install</strong><br />
 once finished <br />
 use - <strong>npm start</strong><br />
